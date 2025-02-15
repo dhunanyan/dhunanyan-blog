@@ -8,6 +8,6 @@ Thank you for your interest in contributing to the Spotify Clone project! We wel
 2. **Clone your forked repository**: Use the following command to clone the repository locally:
 
    ```bash
-   git clone https://github.com/dhunanyan/portfolio.git
-   cd portfolio
+   git clone https://github.com/dhunanyan/dhunanyan-blog.git
+   cd dhunanyan-blog
    ```

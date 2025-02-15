@@ -1,34 +1,36 @@
 <h1 align="center">
-  <a href="https://dhunanyan.com" alt="Official Website">
-    <p>dhunanyan.com</p>
-    <img alt="Logo" src="https://raw.githubusercontent.com/dhunanyan/portfolio/master/public/svg/i_logo-bg.svg" width="100" />
+  <a href="https://blog.dhunanyan.com" alt="Official Website">
+    <p>blog.dhunanyan.com</p>
+    <img alt="Logo" src="https://raw.githubusercontent.com/dhunanyan/dhunanyan-blog/master/public/svg/i_logo-bg.svg" width="100" />
   </a>
 </h1>
 
-## 🌐 Davit Hunanyan - Portfolio [![Netlify Status](https://api.netlify.com/api/v1/badges/a77080ba-aa75-4807-ad50-b0e00c0c31da/deploy-status)](https://app.netlify.com/sites/dhunanyan/deploys)
+## 🌐 Davit Hunanyan - Blog [![Netlify Status](https://api.netlify.com/api/v1/badges/caff0ebb-ec1b-442c-ba9f-856702f97e8c/deploy-status)](https://app.netlify.com/sites/dhunanyan-blog/deploys)
 
-Welcome to the source code for my personal portfolio website! Crafted with the latest in web technologies and built to showcase my skills, experience, and projects, this site represents both my journey as a software developer and my commitment to delivering high-quality, performant web applications.
+Hello and welcome to **Code Chronicles**! 🎉
 
-<p align="center">
-  <a href="https://app.netlify.com/sites/dhunanyan/deploys" alt="Netlify Deploys">
-    <img alt="Netlify Status" src="https://raw.githubusercontent.com/dhunanyan/portfolio/master/docs/i_netlify.svg"  />
-  </a>
-</p>
+This blog is dedicated to **React.js**, **JavaScript**, and modern **frontend development**. Whether you're a beginner or an experienced developer, you'll find **insightful tutorials, best practices, and deep dives** into the React ecosystem.
 
 ## 📸 Screenshots
 
-| Desktop                                                                                                         | Mobile                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| ![Desktop Screenshot](https://raw.githubusercontent.com/dhunanyan/portfolio/master/docs/screenshot-desktop.png) | ![Mobile Screenshot](https://raw.githubusercontent.com/dhunanyan/portfolio/master/docs/screenshot-mobile.png) |
+| Desktop                                              | Mobile                                             |
+| ---------------------------------------------------- | -------------------------------------------------- |
+| ![Desktop Screenshot](./docs/screenshot-desktop.png) | ![Mobile Screenshot](./docs/screenshot-mobile.png) |
 
 ## 🎨 Overview
 
-This portfolio site is built with Next.js, a powerful React framework for building fast and optimized static and dynamic web applications. With server-side rendering (SSR), dynamic routing, and custom API endpoints, Next.js powers a seamless and snappy user experience. Whether it’s showing off completed projects, highlighting key skills, or making it easy to connect, this site serves as a digital handshake with anyone interested in my work.
+**Code Chronicles** is a blog dedicated to **React.js** and modern frontend development. Created by a Software Engineer, this blog explores the latest trends, best practices, and hands-on tutorials to help developers build efficient and scalable applications.
+
+Whether you're just starting out or looking to level up your React skills, **Code Chronicles** provides **insightful articles, coding techniques, and deep dives** into the React ecosystem.
+
+From **React Hooks** to **performance optimization**, you'll find content that simplifies complex topics and enhances your development workflow.
+
+Join the journey and let's write better code together! 🚀
 
 ## ✨ Features
 
 - **Fast & Responsive**: Built with modern web standards for a smooth and responsive experience across devices.
-- **SEO Optimized**: Utilizing Next.js SEO features to ensure the portfolio stands out on search engines.
+- **SEO Optimized**: Utilizing Next.js SEO features to ensure the dhunanyan-blog stands out on search engines.
 - **Dynamic Routing**: Each project and experience section dynamically routes to a detailed page.
 - **API-Driven Content**: Project details, blogs, and experience info fetched using server-side rendered data fetching from [**Contentful**](https://www.contentful.com 'Contentful').
 - **Styled Components**: Elegant UI, with styled-components providing a maintainable and component-based CSS structure.
@@ -64,21 +66,21 @@ This portfolio site is built with Next.js, a powerful React framework for buildi
 Planned enhancements for future versions include:
 
 - **Dark Mode**: Toggle for users to switch between light and dark themes.
-- **CMS Integration**: Headless CMS integration to easily manage portfolio content.
-- **Blog Section**: A blog for sharing insights and tutorials.
+- **CMS Integration**: Headless CMS integration to easily manage dhunanyan-blog content.
+- **Blog**: A blog for sharing insights and tutorials.
 
 ## ⚙️ Installation & Set Up
 
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/davithunanyan/portfolio.git
+git clone https://github.com/davithunanyan/dhunanyan-blog.git
 ```
 
 2. **Navigate to the project directory**
 
 ```bash
-cd portfolio
+cd dhunanyan-blog
 ```
 
 3. **Set Node version to 20 using NVM**

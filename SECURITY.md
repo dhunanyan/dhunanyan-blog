@@ -1,16 +1,16 @@
 # Security Policy
 
-Thank you for helping keep our Portfolio project secure! We appreciate contributions and reports from the community. This document provides guidelines for reporting security issues to ensure they are resolved responsibly and promptly.
+Thank you for helping keep our Dhunanyan Blog project secure! We appreciate contributions and reports from the community. This document provides guidelines for reporting security issues to ensure they are resolved responsibly and promptly.
 
 ## Supported Versions
 
 We support security updates for the following versions:
 
-| Version         | Supported          |
-| --------------- | ------------------ |
-| Latest release  | :white_check_mark: |
+| Version                    | Supported          |
+| -------------------------- | ------------------ |
+| Latest release             | :white_check_mark: |
 | Previous release (1 major) | :white_check_mark: |
-| Older versions  | :x:                |
+| Older versions             | :x:                |
 
 Please use the latest version of the project to ensure you have the latest security fixes.
 
@@ -26,7 +26,7 @@ If you find a security vulnerability, please report it by following these steps:
      - Steps to reproduce
      - Potential impact
      - Any recommended fix (if you have one)
-   - **Affected version(s)**: Specify the affected version(s) of the Portfolio.
+   - **Affected version(s)**: Specify the affected version(s) of the Dhunanyan Blog.
 3. **PGP encryption** (optional): If you would like to encrypt your report, please use our PGP public key (include a link to a PGP key if available).
 
 We will respond within **48 hours** and provide an initial assessment of the vulnerability. We’ll work with you on remediation and coordinate a public disclosure timeline if appropriate.
@@ -40,7 +40,8 @@ We regularly review and address security issues and release updates as needed. S
 
 ## Best Practices for Users
 
-To keep your usage of the Portfolio project secure:
+To keep your usage of the Dhunanyan Blog project secure:
+
 - Always use the latest release.
 - Review our recommended [configuration and deployment practices](https://github.com/your-repo/docs/deployment).
 
