@@ -2,6 +2,36 @@
   "name": "potfolio",
   "version": "1.0.0",
   "private": true,
+  "description": "A React.js-focused blog by a Software Engineer, covering tips, best practices, and insights into modern web development.",
+  "author": "dhunanyan",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "reactjs",
+    "javascript",
+    "frontend",
+    "web-development",
+    "software-engineering",
+    "code-chronicles",
+    "programming",
+    "coding",
+    "tutorials",
+    "best-practices",
+    "react-hooks",
+    "react-components",
+    "react-router",
+    "nextjs",
+    "typescript",
+    "frontend-development"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhunanyan/dhunanyan-blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dhunanyan/dhunanyan-blog/issues"
+  },
+  "homepage": "https://github.com/dhunanyan/dhunanyan-blog#readme",
   "engines": {
     "node": ">=20.0.0"
   },

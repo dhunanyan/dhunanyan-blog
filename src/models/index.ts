@@ -1,8 +1,15 @@
-export type {
-  CommonSectionModel,
-  AboutSectionModel,
-  JobModel,
-  ExperienceSectionModel,
-} from './home';
+import { Document } from '@contentful/rich-text-types';
 
-export type { BlogModel, BlogPreviewModel } from './blog';
+export type BlogModel = {
+  id: string;
+  image: string;
+  title: string;
+  lastUpdated: string;
+  content: Document;
+};
+
+export type BlogPreviewModel = {
+  id: string;
+  image: string;
+  title: string;
+};
